@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0196-delete-duplicate-emails](https://github.com/Prabhakar620126/leetcode_problem/tree/master/0196-delete-duplicate-emails) |
 | [0585-investments-in-2016](https://github.com/Prabhakar620126/leetcode_problem/tree/master/0585-investments-in-2016) |
 | [1890-the-latest-login-in-2020](https://github.com/Prabhakar620126/leetcode_problem/tree/master/1890-the-latest-login-in-2020) |
 | [3436-find-valid-emails](https://github.com/Prabhakar620126/leetcode_problem/tree/master/3436-find-valid-emails) |
