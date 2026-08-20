@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0176-second-highest-salary](https://github.com/Prabhakar620126/leetcode_problem/tree/master/0176-second-highest-salary) |
 | [0196-delete-duplicate-emails](https://github.com/Prabhakar620126/leetcode_problem/tree/master/0196-delete-duplicate-emails) |
 | [0585-investments-in-2016](https://github.com/Prabhakar620126/leetcode_problem/tree/master/0585-investments-in-2016) |
 | [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/Prabhakar620126/leetcode_problem/tree/master/0602-friend-requests-ii-who-has-the-most-friends) |
