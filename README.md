@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0196-delete-duplicate-emails](https://github.com/Prabhakar620126/leetcode_problem/tree/master/0196-delete-duplicate-emails) |
 | [0262-trips-and-users](https://github.com/Prabhakar620126/leetcode_problem/tree/master/0262-trips-and-users) |
 | [0585-investments-in-2016](https://github.com/Prabhakar620126/leetcode_problem/tree/master/0585-investments-in-2016) |
+| [0601-human-traffic-of-stadium](https://github.com/Prabhakar620126/leetcode_problem/tree/master/0601-human-traffic-of-stadium) |
 | [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/Prabhakar620126/leetcode_problem/tree/master/0602-friend-requests-ii-who-has-the-most-friends) |
 | [1890-the-latest-login-in-2020](https://github.com/Prabhakar620126/leetcode_problem/tree/master/1890-the-latest-login-in-2020) |
 | [3436-find-valid-emails](https://github.com/Prabhakar620126/leetcode_problem/tree/master/3436-find-valid-emails) |
