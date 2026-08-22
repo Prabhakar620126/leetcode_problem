@@ -12,4 +12,5 @@ from cte2
 where is_valid=1
 or id in (select lag_id from cte2 where is_valid =1 )
 or id in (select lead_id from cte2 where is_valid =1 )
+order by visit_date
 
