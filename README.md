@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0601-human-traffic-of-stadium](https://github.com/Prabhakar620126/leetcode_problem/tree/master/0601-human-traffic-of-stadium) |
 | [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/Prabhakar620126/leetcode_problem/tree/master/0602-friend-requests-ii-who-has-the-most-friends) |
 | [0608-tree-node](https://github.com/Prabhakar620126/leetcode_problem/tree/master/0608-tree-node) |
+| [1158-market-analysis-i](https://github.com/Prabhakar620126/leetcode_problem/tree/master/1158-market-analysis-i) |
 | [1890-the-latest-login-in-2020](https://github.com/Prabhakar620126/leetcode_problem/tree/master/1890-the-latest-login-in-2020) |
 | [3436-find-valid-emails](https://github.com/Prabhakar620126/leetcode_problem/tree/master/3436-find-valid-emails) |
 | [3465-find-products-with-valid-serial-numbers](https://github.com/Prabhakar620126/leetcode_problem/tree/master/3465-find-products-with-valid-serial-numbers) |
