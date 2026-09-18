@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1158-market-analysis-i](https://github.com/Prabhakar620126/leetcode_problem/tree/master/1158-market-analysis-i) |
 | [1321-restaurant-growth](https://github.com/Prabhakar620126/leetcode_problem/tree/master/1321-restaurant-growth) |
 | [1341-movie-rating](https://github.com/Prabhakar620126/leetcode_problem/tree/master/1341-movie-rating) |
+| [1393-capital-gainloss](https://github.com/Prabhakar620126/leetcode_problem/tree/master/1393-capital-gainloss) |
 | [1890-the-latest-login-in-2020](https://github.com/Prabhakar620126/leetcode_problem/tree/master/1890-the-latest-login-in-2020) |
 | [3436-find-valid-emails](https://github.com/Prabhakar620126/leetcode_problem/tree/master/3436-find-valid-emails) |
 | [3465-find-products-with-valid-serial-numbers](https://github.com/Prabhakar620126/leetcode_problem/tree/master/3465-find-products-with-valid-serial-numbers) |
