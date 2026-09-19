@@ -21,5 +21,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3421-find-students-who-improved](https://github.com/Prabhakar620126/leetcode_problem/tree/master/3421-find-students-who-improved) |
 | [3436-find-valid-emails](https://github.com/Prabhakar620126/leetcode_problem/tree/master/3436-find-valid-emails) |
 | [3465-find-products-with-valid-serial-numbers](https://github.com/Prabhakar620126/leetcode_problem/tree/master/3465-find-products-with-valid-serial-numbers) |
+| [3475-dna-pattern-recognition](https://github.com/Prabhakar620126/leetcode_problem/tree/master/3475-dna-pattern-recognition) |
 | [3570-find-books-with-no-available-copies](https://github.com/Prabhakar620126/leetcode_problem/tree/master/3570-find-books-with-no-available-copies) |
 <!---LeetCode Topics End-->
