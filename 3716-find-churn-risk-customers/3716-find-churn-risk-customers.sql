@@ -1,13 +1,36 @@
 /* Write your T-SQL query statement below */
-with cte as (
-select * , row_number() over(partition by user_id order by event_date desc) as rn_des , case when event_type ='downgrade' then 1 end as down_cont 
-from subscription_events )
 
-select user_id , max(case when rn_des=1 then plan_name end) as current_plan , max(case when rn_des= 1 then  monthly_amount  end) as  current_monthly_amount , max(monthly_amount) as max_historical_amount , datediff(day , min(event_date), max(event_date)) as days_as_subscriber
-from cte 
-group by user_id
-having count(down_cont)>=1 
-and max(case when rn_des=1   then plan_name  end) <>'cancle' 
-and datediff(day , min(event_date), max(event_date)) >=60
-and  max(case when rn_des= 1 then  monthly_amount end ) < 0.5 * max(monthly_amount)
-order by datediff(day , min(event_date), max(event_date)) desc , user_id asc 
+WITH cte AS (
+    SELECT *,
+           ROW_NUMBER() OVER (
+               PARTITION BY user_id 
+               ORDER BY event_date DESC
+           ) AS rn
+    FROM subscription_events
+)
+
+SELECT
+    user_id,
+    MAX(CASE WHEN rn = 1 THEN plan_name END) AS current_plan,
+    MAX(CASE WHEN rn = 1 THEN monthly_amount END) AS current_monthly_amount,
+    MAX(monthly_amount) AS max_historical_amount,
+    DATEDIFF(DAY, MIN(event_date), MAX(event_date)) AS days_as_subscriber
+FROM cte
+GROUP BY user_id
+HAVING
+    -- Currently active: latest event is NOT cancel
+    MAX(CASE WHEN rn = 1 THEN event_type END) <> 'cancel'
+
+    -- At least one downgrade
+    AND SUM(CASE WHEN event_type = 'downgrade' THEN 1 ELSE 0 END) >= 1
+
+    -- Subscriber for at least 60 days
+    AND DATEDIFF(DAY, MIN(event_date), MAX(event_date)) >= 60
+
+    -- Current revenue is less than 50% of historical maximum
+    AND MAX(CASE WHEN rn = 1 THEN monthly_amount END)
+        < 0.5 * MAX(monthly_amount)
+
+ORDER BY
+    days_as_subscriber DESC,
+    user_id ASC;
