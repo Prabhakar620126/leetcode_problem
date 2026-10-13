@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0608-tree-node](https://github.com/Prabhakar620126/leetcode_problem/tree/master/0608-tree-node) |
 | [1158-market-analysis-i](https://github.com/Prabhakar620126/leetcode_problem/tree/master/1158-market-analysis-i) |
 | [1321-restaurant-growth](https://github.com/Prabhakar620126/leetcode_problem/tree/master/1321-restaurant-growth) |
+| [1327-list-the-products-ordered-in-a-period](https://github.com/Prabhakar620126/leetcode_problem/tree/master/1327-list-the-products-ordered-in-a-period) |
 | [1341-movie-rating](https://github.com/Prabhakar620126/leetcode_problem/tree/master/1341-movie-rating) |
 | [1393-capital-gainloss](https://github.com/Prabhakar620126/leetcode_problem/tree/master/1393-capital-gainloss) |
 | [1890-the-latest-login-in-2020](https://github.com/Prabhakar620126/leetcode_problem/tree/master/1890-the-latest-login-in-2020) |
