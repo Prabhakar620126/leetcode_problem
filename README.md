@@ -36,4 +36,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3586-find-covid-recovery-patients](https://github.com/Prabhakar620126/leetcode_problem/tree/master/3586-find-covid-recovery-patients) |
 | [3601-find-drivers-with-improved-fuel-efficiency](https://github.com/Prabhakar620126/leetcode_problem/tree/master/3601-find-drivers-with-improved-fuel-efficiency) |
 | [3611-find-overbooked-employees](https://github.com/Prabhakar620126/leetcode_problem/tree/master/3611-find-overbooked-employees) |
+## Array
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Prabhakar620126/leetcode_problem/tree/master/0053-maximum-subarray) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Prabhakar620126/leetcode_problem/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Prabhakar620126/leetcode_problem/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
