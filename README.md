@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1327-list-the-products-ordered-in-a-period](https://github.com/Prabhakar620126/leetcode_problem/tree/master/1327-list-the-products-ordered-in-a-period) |
 | [1341-movie-rating](https://github.com/Prabhakar620126/leetcode_problem/tree/master/1341-movie-rating) |
 | [1393-capital-gainloss](https://github.com/Prabhakar620126/leetcode_problem/tree/master/1393-capital-gainloss) |
+| [1484-group-sold-products-by-the-date](https://github.com/Prabhakar620126/leetcode_problem/tree/master/1484-group-sold-products-by-the-date) |
 | [1527-patients-with-a-condition](https://github.com/Prabhakar620126/leetcode_problem/tree/master/1527-patients-with-a-condition) |
 | [1667-fix-names-in-a-table](https://github.com/Prabhakar620126/leetcode_problem/tree/master/1667-fix-names-in-a-table) |
 | [1890-the-latest-login-in-2020](https://github.com/Prabhakar620126/leetcode_problem/tree/master/1890-the-latest-login-in-2020) |
