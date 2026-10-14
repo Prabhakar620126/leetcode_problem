@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Prabhakar620126/leetcode_problem/tree/master/0014-longest-common-prefix) |
 | [0031-next-permutation](https://github.com/Prabhakar620126/leetcode_problem/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Prabhakar620126/leetcode_problem/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/Prabhakar620126/leetcode_problem/tree/master/0053-maximum-subarray) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Prabhakar620126/leetcode_problem/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Prabhakar620126/leetcode_problem/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/Prabhakar620126/leetcode_problem/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Prabhakar620126/leetcode_problem/tree/master/0242-valid-anagram) |
@@ -98,4 +100,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Prabhakar620126/leetcode_problem/tree/master/0020-valid-parentheses) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Prabhakar620126/leetcode_problem/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
