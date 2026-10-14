@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/Prabhakar620126/leetcode_problem/tree/master/0031-next-permutation) |
+| [0125-valid-palindrome](https://github.com/Prabhakar620126/leetcode_problem/tree/master/0125-valid-palindrome) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -81,4 +82,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Prabhakar620126/leetcode_problem/tree/master/0215-kth-largest-element-in-an-array) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/Prabhakar620126/leetcode_problem/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
